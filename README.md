@@ -43,3 +43,9 @@ Diante disso, você deve desenvolver um projeto java, com os seguintes requisito
 
 
 ![alt text](image.png)
+
+---
+
+### Digrama de Classe
+
+![alt text](image-1.png)
