@@ -1,3 +1,7 @@
+### Controle de Funcionários.
+
+---
+
 Considerando que uma indústria possui as pessoas/funcionários abaixo: 
 
 Diante disso, você deve desenvolver um projeto java, com os seguintes requisitos:
